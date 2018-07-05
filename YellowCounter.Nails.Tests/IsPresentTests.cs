@@ -110,5 +110,26 @@ namespace YellowCounter.Nails.Tests
             var value = true;
             Assert.True(value.IsPresent());
         }
+
+        [Fact]
+        public void Zero()
+        {
+            var value = 0;
+            Assert.True(value.IsPresent());
+        }
+
+        [Fact]
+        public void PositiveNumber()
+        {
+            var value = 2;
+            Assert.True(value.IsPresent());
+        }
+
+        [Fact]
+        public void NegativeNumber()
+        {
+            var value = -2;
+            Assert.True(value.IsPresent());
+        }
     }
 }

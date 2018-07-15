@@ -1,3 +1,5 @@
+[![NuGet](https://img.shields.io/nuget/v/YellowCounter.Nails.svg)](https://www.nuget.org/packages/YellowCounter.Nails/)
+
 # YellowCounter.Nails
 A few Ruby and Rails-like extension methods for .NET
 

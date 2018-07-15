@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Dan Friedman</Authors>
+    <Company>YellowCounter</Company>
+    <Description>A few Ruby and Rails-like extension methods for .NET</Description>
+    <PackageProjectUrl>https://github.com/MisinformedDNA/YellowCounter.Nails</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MisinformedDNA/YellowCounter.Nails</RepositoryUrl>
+    <Version>0.1.0</Version>
+    <PackageLicenseUrl>https://github.com/MisinformedDNA/YellowCounter.Nails/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>2018 Dan Friedman</Copyright>
   </PropertyGroup>
 
 </Project>
